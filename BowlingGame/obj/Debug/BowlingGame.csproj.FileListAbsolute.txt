@@ -1,0 +1,20 @@
+F:\DemosNet\BowlingGame\BowlingGame\BowlingGame\bin\Debug\BowlingGame.dll
+F:\DemosNet\BowlingGame\BowlingGame\BowlingGame\bin\Debug\BowlingGame.pdb
+F:\DemosNet\BowlingGame\BowlingGame\BowlingGame\obj\Debug\BowlingGame.dll
+F:\DemosNet\BowlingGame\BowlingGame\BowlingGame\obj\Debug\BowlingGame.pdb
+F:\DemosNet\BowlingGame\BowlingGame\BowlingGame\obj\Debug\BowlingGame.csprojResolveAssemblyReference.cache
+C:\Dropbox\Nueva carpeta\DemosNet\BowlingGame\BowlingGame\bin\Debug\BowlingGame.dll
+C:\Dropbox\Nueva carpeta\DemosNet\BowlingGame\BowlingGame\bin\Debug\BowlingGame.pdb
+C:\Dropbox\Nueva carpeta\DemosNet\BowlingGame\BowlingGame\obj\Debug\BowlingGame.csprojResolveAssemblyReference.cache
+C:\Dropbox\Nueva carpeta\DemosNet\BowlingGame\BowlingGame\obj\Debug\BowlingGame.dll
+C:\Dropbox\Nueva carpeta\DemosNet\BowlingGame\BowlingGame\obj\Debug\BowlingGame.pdb
+D:\DemosNet\BowlingGame\BowlingGame\bin\Debug\BowlingGame.dll
+D:\DemosNet\BowlingGame\BowlingGame\bin\Debug\BowlingGame.pdb
+D:\DemosNet\BowlingGame\BowlingGame\obj\Debug\BowlingGame.csprojResolveAssemblyReference.cache
+D:\DemosNet\BowlingGame\BowlingGame\obj\Debug\BowlingGame.dll
+D:\DemosNet\BowlingGame\BowlingGame\obj\Debug\BowlingGame.pdb
+D:\DemosNet\MyProjects\BowlingGame\BowlingGame\BowlingGame\bin\Debug\BowlingGame.dll
+D:\DemosNet\MyProjects\BowlingGame\BowlingGame\BowlingGame\bin\Debug\BowlingGame.pdb
+D:\DemosNet\MyProjects\BowlingGame\BowlingGame\BowlingGame\obj\Debug\BowlingGame.csprojResolveAssemblyReference.cache
+D:\DemosNet\MyProjects\BowlingGame\BowlingGame\BowlingGame\obj\Debug\BowlingGame.dll
+D:\DemosNet\MyProjects\BowlingGame\BowlingGame\BowlingGame\obj\Debug\BowlingGame.pdb

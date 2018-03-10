@@ -1,0 +1,28 @@
+F:\DemosNet\BowlingGame\BowlingGame\BowlingMain\bin\Debug\BowlingMain.exe
+F:\DemosNet\BowlingGame\BowlingGame\BowlingMain\bin\Debug\BowlingMain.pdb
+F:\DemosNet\BowlingGame\BowlingGame\BowlingMain\obj\x86\Debug\BowlingMain.exe
+F:\DemosNet\BowlingGame\BowlingGame\BowlingMain\obj\x86\Debug\BowlingMain.pdb
+F:\DemosNet\BowlingGame\BowlingGame\BowlingMain\bin\Debug\BowlingGame.dll
+F:\DemosNet\BowlingGame\BowlingGame\BowlingMain\bin\Debug\BowlingGame.pdb
+F:\DemosNet\BowlingGame\BowlingGame\BowlingMain\obj\x86\Debug\BowlingMain.csprojResolveAssemblyReference.cache
+C:\Dropbox\Nueva carpeta\DemosNet\BowlingGame\BowlingMain\obj\x86\Debug\BowlingMain.exe
+C:\Dropbox\Nueva carpeta\DemosNet\BowlingGame\BowlingMain\obj\x86\Debug\BowlingMain.pdb
+C:\Dropbox\Nueva carpeta\DemosNet\BowlingGame\BowlingMain\bin\Debug\BowlingMain.exe
+C:\Dropbox\Nueva carpeta\DemosNet\BowlingGame\BowlingMain\bin\Debug\BowlingMain.pdb
+C:\Dropbox\Nueva carpeta\DemosNet\BowlingGame\BowlingMain\bin\Debug\BowlingGame.dll
+C:\Dropbox\Nueva carpeta\DemosNet\BowlingGame\BowlingMain\bin\Debug\BowlingGame.pdb
+C:\Dropbox\Nueva carpeta\DemosNet\BowlingGame\BowlingMain\obj\x86\Debug\BowlingMain.csprojResolveAssemblyReference.cache
+D:\DemosNet\BowlingGame\BowlingMain\obj\x86\Debug\BowlingMain.exe
+D:\DemosNet\BowlingGame\BowlingMain\obj\x86\Debug\BowlingMain.pdb
+D:\DemosNet\BowlingGame\BowlingMain\bin\Debug\BowlingMain.exe
+D:\DemosNet\BowlingGame\BowlingMain\bin\Debug\BowlingMain.pdb
+D:\DemosNet\BowlingGame\BowlingMain\bin\Debug\BowlingGame.dll
+D:\DemosNet\BowlingGame\BowlingMain\bin\Debug\BowlingGame.pdb
+D:\DemosNet\BowlingGame\BowlingMain\obj\x86\Debug\BowlingMain.csprojResolveAssemblyReference.cache
+D:\DemosNet\MyProjects\BowlingGame\BowlingGame\BowlingMain\obj\x86\Debug\BowlingMain.exe
+D:\DemosNet\MyProjects\BowlingGame\BowlingGame\BowlingMain\obj\x86\Debug\BowlingMain.pdb
+D:\DemosNet\MyProjects\BowlingGame\BowlingGame\BowlingMain\bin\Debug\BowlingMain.exe
+D:\DemosNet\MyProjects\BowlingGame\BowlingGame\BowlingMain\bin\Debug\BowlingMain.pdb
+D:\DemosNet\MyProjects\BowlingGame\BowlingGame\BowlingMain\bin\Debug\BowlingGame.dll
+D:\DemosNet\MyProjects\BowlingGame\BowlingGame\BowlingMain\bin\Debug\BowlingGame.pdb
+D:\DemosNet\MyProjects\BowlingGame\BowlingGame\BowlingMain\obj\x86\Debug\BowlingMain.csprojResolveAssemblyReference.cache
